@@ -10,7 +10,7 @@ JSON is provided by Kaiddd
 
 To see if you've done the steps above correctly so far, check to see if you have something similar to this:
 ```
-sudo sh /Users/Taco/Downloads/RFO-install.sh
+sh /Users/Taco/Downloads/RFO-install.sh
 ```
 3. Now press `ENTER`. It should now be installed onto Roblox.
 
