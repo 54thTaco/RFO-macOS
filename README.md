@@ -7,7 +7,9 @@ JSON is provided by Kaiddd
 # Installing
 
 ## First Install
-a
+1. Download rfo-install.sh
+2. 
 
 ## Renewing
-a
+1. Do this command:
+`curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/rfo-install.sh | sh`
