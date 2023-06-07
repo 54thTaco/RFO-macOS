@@ -15,7 +15,7 @@ sudo sh /Users/Taco/Downloads/rfo-install.sh
 3. Now press ENTER. It should now be installed onto Roblox.
 
 # Renewing
-Every time Roblox updates, which is typically every Wednesday, use this command:
+Every time Roblox updates, which is typically every Wednesday, type this in the terminal:
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/rfo-install.sh | sh
