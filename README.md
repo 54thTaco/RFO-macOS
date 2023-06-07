@@ -4,5 +4,10 @@ A RFO installer for the macOS ecosystem.
 
 JSON is provided by Kaiddd
 
-## Installing
+# Installing
 
+## First Install
+a
+
+## Renewing
+a
