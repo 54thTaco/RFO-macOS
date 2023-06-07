@@ -4,9 +4,7 @@ A RFO installer for the macOS ecosystem.
 
 JSON is provided by Kaiddd
 
-# Installing
-
-## First Install
+# Installation
 1. Download rfo-install.sh
 2. Open the terminal, type `sudo sh` , add a space, and put the shell file in the terminal window
 
@@ -16,7 +14,7 @@ sudo sh /Users/Taco/Downloads/rfo-install.sh
 ```
 3. Now press ENTER. It should now be installed onto Roblox.
 
-## Renewing
+# Renewing
 Every time Roblox updates, which is typically on a Wednesday, use this command:
 
 ```
