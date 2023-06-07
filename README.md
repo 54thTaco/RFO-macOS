@@ -11,7 +11,7 @@ JSON is provided by Kaiddd
 2. Test
 
 ## Renewing
-1. Do this command:
+Every time Roblox updates, which is typically on a Wednesday, use this command:
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/rfo-install.sh | sh
