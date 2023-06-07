@@ -15,7 +15,7 @@ sudo sh /Users/Taco/Downloads/RFO-install.sh
 3. Now press `ENTER`. It should now be installed onto Roblox.
 
 # Verification
-OPTIONAL. Only for those who want to check.
+[**OPTIONAL**] Only for those who want to check.
 1. Go to your desktop, and press `Shift` + `Command` + `G`
 2. Type `/Applications/Roblox.app/Contents/MacOS` and press `ENTER`
 3. If you see a folder named `ClientSettings`, and inside of it a file named `ClientAppSettings.json`, you've succesfully installed RFO!
