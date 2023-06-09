@@ -26,3 +26,5 @@ Every time Roblox updates, which is typically every Wednesday, type this in the 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/RFO-installer.sh | sh
 ```
+
+Alternatively, you may redo step 2.
