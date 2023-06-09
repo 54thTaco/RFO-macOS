@@ -4,6 +4,11 @@ A RFO installer for the macOS ecosystem.
 
 JSON is provided by Kaiddd
 
+# Prerequisites 
+1. Roblox must be installed
+2. A WiFi connection
+3. CLI using Z shell/ZSH
+
 # Installation
 1. Download `RFO-installer.sh`
 2. Open the terminal, type `sh` , add a space, and put the shell file into the terminal window.
