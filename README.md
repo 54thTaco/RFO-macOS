@@ -1,4 +1,9 @@
-# RFO-macOS
+   __    ___  ___                             ___  __    
+  /__\  / __\/___\     _ __ ___   __ _  ___  /___\/ _\   
+ / \// / _\ //  //____| '_ ` _ \ / _` |/ __|//  //\ \    
+/ _  \/ /  / \_//_____| | | | | | (_| | (__/ \_// _\ \   
+\/ \_/\/   \___/      |_| |_| |_|\__,_|\___\___/  \__/   
+                                                         
 
 A RFO installer for the macOS ecosystem.
 
@@ -20,7 +25,7 @@ sh /Users/Taco/Downloads/RFO-install.sh
 3. Now press `ENTER`. It should now be installed onto Roblox.
 
 # Verification
-[**OPTIONAL**] Only for those who want to check.
+[**OPTIONAL**] For those who need extra checking.
 1. Go to your desktop, and press `Shift` + `Command` + `G`
 2. Type `/Applications/Roblox.app/Contents/MacOS` and press `ENTER`
 3. If you see a folder named `ClientSettings`, and inside of it a file named `ClientAppSettings.json`, you've succesfully installed RFO!
