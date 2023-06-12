@@ -42,7 +42,7 @@ zsh (path to installer)
 ```
 To get your installer's path, simply place your installer in your terminal window.
 
-If you do it correctly, you should have something like this:
+If you did it correctly, you should have something like this:
 ```
 zsh /Users/taco/Desktop/RFO-installer.sh/
 ```
