@@ -15,7 +15,7 @@ Installer made by 54thTaco, JSON is provided by Kaiddd
 2. A WiFi connection
 
 # Installation
-Prior to installing RFO, we must need the installer. In that case, use this command:
+Prior to installing RFO, we need the installer. In that case, use this command:
 ```
 cd Desktop && curl -o RFO-installer.sh https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/RFO-installer.sh && zsh RFO-installer.sh
 ```
