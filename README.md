@@ -30,11 +30,11 @@ Now that you have the installer, press `I` for installation, and you're done!
 3. If you see a folder named `ClientSettings`, and inside of it a file named `ClientAppSettings.json`, you've succesfully installed RFO!
 
 # Renewing
-**Without the Installer**
+## Without the Installer
 
 Redo the command listed in **Installation**.
 
-**With Installer**
+## With Installer
 
 Use this command to reopen the installer:
 ```
