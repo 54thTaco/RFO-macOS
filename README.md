@@ -8,22 +8,20 @@
 
 A RFO installer for the macOS ecosystem.
 
-JSON is provided by Kaiddd
+Installer made by 54thTaco, JSON is provided by Kaiddd
 
 # Prerequisites 
 1. Roblox must be installed
 2. A WiFi connection
-3. CLI using Z shell/ZSH
 
 # Installation
-1. Download `RFO-installer.sh`
-2. Open the terminal, type `sh` , add a space, and put the shell file into the terminal window.
+Prior to installing RFO, we must need the installer. In that case, use this command:
+```
+cd Desktop && curl -o RFO-installer.sh https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/RFO-installer.sh && zsh RFO-installer.sh
+```
+This command goes to your desktop, downloads the installer, and runs it. 
 
-To see if you've done the steps above correctly so far, check to see if you have something similar to this:
-```
-sh /Users/Taco/Downloads/RFO-install.sh
-```
-3. Now press `ENTER`. It should now be installed onto Roblox.
+Now that you have the installer, press `I` for installation, and you're done!
 
 # Verification
 [**OPTIONAL**] For those who need extra checking.
@@ -32,10 +30,15 @@ sh /Users/Taco/Downloads/RFO-install.sh
 3. If you see a folder named `ClientSettings`, and inside of it a file named `ClientAppSettings.json`, you've succesfully installed RFO!
 
 # Renewing
-Every time Roblox updates, which is typically every Wednesday, type this in the terminal:
+To renew RFO, simply redo the command.
 
+If you still have the installer, use this command instead:
 ```
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/RFO-installer.sh | sh
+zsh (path to installer)
 ```
+To get your installer's path, simply place your installer in your terminal window.
 
-Alternatively, you may redo step 2.
+If you do it correctly, you should have something like this:
+```
+zsh /Users/taco/Desktop/RFO-installer.sh/
+```
