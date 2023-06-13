@@ -32,7 +32,7 @@ Now that you have the installer, press `I` for installation, and you're done!
 # Renewing
 ## Without the Installer
 
-Redo the command listed in **Installation**.
+Redo the command listed in [**Installation**](https://github.com/54thTaco/RFO-macOS#installation).
 
 ## With Installer
 
