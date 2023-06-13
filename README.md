@@ -29,6 +29,8 @@ Now that you have the installer, press `I` for installation, and you're done!
 2. Type `/Applications/Roblox.app/Contents/MacOS` and press `ENTER`
 3. If you see a folder named `ClientSettings`, and inside of it a file named `ClientAppSettings.json`, you've succesfully installed RFO!
 
+Alternatively, you may also press `Oa` when opening the installer.
+
 # Renewing
 ## Without the Installer
 
