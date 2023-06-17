@@ -6,8 +6,8 @@ echo && echo "Welcome to RFO-macOS! Available commands:" && echo "'I' - Installe
 # Program
 read OPTION\?"Option: "
 if [[ $OPTION == "I" ]]; then
-    echo && echo "Installer initialized..." && cd /Applications/Roblox.app/Contents/MacOS && rm -rf ClientSettings
-    mkdir ClientSettings && cd ClientSettings
+    echo && echo "Installer initialized..." && cd /Applications/Roblox.app/Contents/MacOS && rm -rf ./ClientSettings
+    mkdir ./ClientSettings && cd ClientSettings
     curl https://raw.githubusercontent.com/rbxflags/Flags/main/Main/Base.json -o Base.json && curl https://raw.githubusercontent.com/rbxflags/Flags/main/Main/GraphicsBars.json -o GraphicsBars.json && curl https://raw.githubusercontent.com/rbxflags/Flags/main/Main/Privacy.json -o Privacy.json && curl https://raw.githubusercontent.com/rbxflags/Flags/main/Render/Renderer/Metal.json5 -o Metal.json
     cat Base.json GraphicsBars.json Privacy.json Metal.json >>ClientAppSettings.json && rm -rf Base.json GraphicsBars.json Privacy.json Metal.json
     sed '4d;5d;8d;104d' ClientAppSettings.json >CAS.json && sed '3s/$/,/' CAS.json >ClientAppSettings.json && sed '5s/$/,/' ClientAppSettings.json >CAS.json && sed '100s/$/,/' CAS.json >ClientAppSettings.json
