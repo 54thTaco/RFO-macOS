@@ -24,7 +24,8 @@ This command goes to your desktop, downloads the program, and runs it.
 Now that you have the installer, press `N` for installation, and you're done!
 
 # Verification
-[**OPTIONAL**] For those who need extra checking.
+[**OPTIONAL**]
+
 You can easily check the installation of RFO by pressing `C` with the program opened.
 
 # Renewing
