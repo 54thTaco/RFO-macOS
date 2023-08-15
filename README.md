@@ -35,13 +35,7 @@ Redo the command listed in [**Installation**](https://github.com/54thTaco/RFO-ma
 
 ## With Installer
 
-Use this command to reopen the installer:
-```
-zsh [Path to installer]
-```
-To get your installer's path, simply place your installer into your terminal window.
+1. Open the installer
+2. Press `N`
 
-If you did it correctly, you should have something like this:
-```
-zsh /Users/taco/Desktop/RFO-v2P1.zsh/
-```
+And you're done! Simple, no?
