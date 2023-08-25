@@ -2,7 +2,7 @@
 
 A RFO installer and editor* for the macOS ecosystem.
 
-Installer made by 54thTaco, JSON is provided by developer Kaiddd
+Installer made by 54thTaco (tatataco), JSON is provided by developers Kaiddd and Expo
 
 # Prerequisites 
 1. Roblox must be installed
