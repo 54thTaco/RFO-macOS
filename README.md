@@ -11,7 +11,7 @@ Installer made by 54thTaco (tatataco), JSON is provided by developers Kaiddd and
 # Installation
 Prior to installing RFO, we need the installer. In that case, use this command:
 ```
-cd ~/Desktop && curl -o RFO-v2P1.zsh https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/RFO-v2P2.zsh && zsh RFO-v2P1.zsh
+cd ~/Desktop && curl -o RFO-v2P1.zsh https://raw.githubusercontent.com/54thTaco/RFO-macOS/main/RFO-v2P2.zsh && zsh RFO-v2P2.zsh
 ```
 This command goes to your desktop, downloads the program, and runs it. 
 
