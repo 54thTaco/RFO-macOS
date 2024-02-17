@@ -58,9 +58,12 @@ while true;
         if [ ! -f $JSONOFF ]; then 
             # On/off
             print "\nOn/off: On"
-        else
+        elif [[ ! -f $JSON ]]; then
             print "\nOn/off: Off"
+        else
+            print "\nOn/off: Off, not installed"
         fi
+
 
         if [ ! -f OGL ]; then 
             # Metal/OpenGL
