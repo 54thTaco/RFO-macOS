@@ -10,7 +10,7 @@ Installer made by 54thTaco (tatataco), JSON is provided by developers Kaiddd and
 
 # Installation
 
-Find the latest release, along with previous versions, [here]([url](https://github.com/54thTaco/RFO-macOS/releases))
+Find the latest release, along with previous versions, [here](https://github.com/54thTaco/RFO-macOS/releases)
 
 # Verification
 [**OPTIONAL**]
