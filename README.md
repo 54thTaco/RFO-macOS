@@ -12,7 +12,10 @@ Installer made by 54thTaco (tatataco), JSON is provided by developers Kaiddd and
 
 Find the latest release, along with previous versions, [here](https://github.com/54thTaco/RFO-macOS/releases)
 
-# Verification
-[**OPTIONAL**]
+Once the file is downloaded, 
+1. Open up `Terminal`
+2. Go to your downloads folder by typing in `cd Downloads`
+3. Run the file using `zsh RFO-macOS.zsh`.
+4. If you see `Option: ` on the left side of the Terminal window, type `N` and the script will automaticlly download RFO. 
 
-You can easily check the installation of RFO by pressing `C` with the program opened.
+
