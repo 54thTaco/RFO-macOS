@@ -4,7 +4,7 @@ A RFO installer and editor* for the macOS ecosystem.
 
 Installer made by 54thTaco (tatataco), JSON is provided by developers Kaiddd and Expo
 
-# ⚠️ THIS PROJECT IS NO LONGER MAINTAINED. ⚠
+# ⚠️ THIS PROJECT IS NO LONGER MAINTAINED.
 
 # Prerequisites 
 1. Roblox must be installed
